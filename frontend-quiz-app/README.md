@@ -2,7 +2,7 @@
 
 An interactive quiz app built with **HTML, CSS and JavaScript**. Answer timed multiple-choice questions on web development and see your score at the end.
 
-![Home page screenshot](images/screenshot.png)
+![Home page screenshot](./screenshot.png)
 
 ## About
 
